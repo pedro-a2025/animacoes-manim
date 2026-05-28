@@ -1,5 +1,9 @@
 # Visualização de Física e Matemática com Python (Manim)
 
+<div align="center">
+  <img src="assets/MaquinaComContradominioCompleta.gif" width="600" alt="Animação da Máquina">
+</div>
+
 Este repositório contém scripts desenvolvidos em Python utilizando a biblioteca Manim. O foco principal é a criação de animações automatizadas para traduzir demonstrações e deduções analíticas complexas em visualizações didáticas passo a passo.
 
 ## 🎯 Objetivos do Projeto
